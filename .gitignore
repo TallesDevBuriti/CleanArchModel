@@ -1,0 +1,71 @@
+# Arquivos e diretórios específicos do Visual Studio
+.vs/
+bin/
+obj/
+
+# Arquivos de compilação
+*.exe
+*.dll
+*.pdb
+*.dll.config
+
+# Arquivos gerados pela ferramenta de criação de projeto
+*.user
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.obj
+*.lib
+*.sbr
+*.scc
+*.aps
+*.exp
+*.vspx
+
+# Arquivos de saída
+[Tt]est[Rr]esult*
+*.tlog
+
+# Diretórios e arquivos específicos do Rider IDE
+.idea/
+
+# Arquivos de configuração
+*.sw?
+
+# Arquivos de compilação
+*.sln.iml
+
+# Arquivos de compilação Rider
+*.csproj.user
+
+# Arquivos temporários do Rider
+_ReSharper*/
+*.resharper
+
+# Arquivos de compilação do Rider
+*.suo
+*.user
+
+# Diretórios de saída do Rider
+_ReSharper*/
+
+# Logs de compilação do Rider
+*.txt
+
+# Arquivos temporários do Rider
+*.csproj.user
+
+# Arquivos temporários do NuGet
+*.nupkg
+*.paket/paket.exe
+*.paket/paket.targets
+*.paket/imports

@@ -1,0 +1,1 @@
+Pasta responsável por realizar o mapeamento das classes (entidades ou models) para DTOs.

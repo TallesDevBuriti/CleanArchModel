@@ -1,0 +1,1 @@
+Pasta responsável por armazenar as interfaces de repositories.

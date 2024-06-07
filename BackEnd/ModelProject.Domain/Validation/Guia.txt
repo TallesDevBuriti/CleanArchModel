@@ -1,0 +1,1 @@
+Pasta responsável por armazenar validações de entidades (podendo usar extensão do metodo Exception ou o nuget FluentValidation).

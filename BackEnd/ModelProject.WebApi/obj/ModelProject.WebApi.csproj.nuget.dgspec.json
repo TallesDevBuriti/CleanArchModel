@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.WebApi\\ModelProject.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Application\\ModelProject.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Application\\ModelProject.Application.csproj",
+        "projectName": "ModelProject.Application",
+        "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Application\\ModelProject.Application.csproj",
+        "packagesPath": "C:\\Users\\talle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\talle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj",
+        "projectName": "ModelProject.Domain",
+        "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\talle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\talle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.Data\\ModelProject.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.Data\\ModelProject.Infra.Data.csproj",
+        "projectName": "ModelProject.Infra.Data",
+        "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.Data\\ModelProject.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\talle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\talle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.IoC\\ModelProject.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.IoC\\ModelProject.Infra.IoC.csproj",
+        "projectName": "ModelProject.Infra.IoC",
+        "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.IoC\\ModelProject.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\talle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\talle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Application\\ModelProject.Application.csproj": {
+                "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Application\\ModelProject.Application.csproj"
+              },
+              "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Domain\\ModelProject.Domain.csproj"
+              },
+              "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.Data\\ModelProject.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.Data\\ModelProject.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.WebApi\\ModelProject.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.WebApi\\ModelProject.WebApi.csproj",
+        "projectName": "ModelProject.WebApi",
+        "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.WebApi\\ModelProject.WebApi.csproj",
+        "packagesPath": "C:\\Users\\talle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\talle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.IoC\\ModelProject.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\talle\\Desktop\\CódigoPadrão\\BackEnd\\ModelProject.Infra.IoC\\ModelProject.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

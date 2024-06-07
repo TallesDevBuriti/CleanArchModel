@@ -1,0 +1,1 @@
+Pasta responsável por armazenar as configurações de campos do banco de dados para o modelo do objeto C#.

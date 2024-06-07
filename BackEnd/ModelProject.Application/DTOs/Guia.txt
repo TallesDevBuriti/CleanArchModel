@@ -1,0 +1,1 @@
+Pasta responsável por armazenar as classes de DTOs do sistema.
